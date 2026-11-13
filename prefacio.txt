@@ -1,2 +1,2 @@
-Livro de instruções do GIT
+Este livro é um Diario de bordo do GIT.... mais um
 acrescentar...
