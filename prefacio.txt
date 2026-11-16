@@ -1,2 +1,4 @@
 Este livro é um Diario de bordo do GIT.... mais um
 acrescentar...
+
+acrescentei uma linha do prefacio
